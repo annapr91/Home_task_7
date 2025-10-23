@@ -29,7 +29,7 @@
 
 
 ### Краткая информация о данных
-....
+Th work is with whole numbers
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
@@ -41,7 +41,7 @@
 
 
 ### Результаты:  
-....
+wrote steps to guess number witm min number of steps
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
